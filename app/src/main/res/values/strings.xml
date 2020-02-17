@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Plantilla Pestaña</string>
+    <string name="tab_text_1">urgente</string>
+    <string name="tab_text_2">No urgente</string>
+</resources>
